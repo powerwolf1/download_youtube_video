@@ -1,1 +1,3 @@
-yt_dlp
+python==3.12
+yt-dlp==2024.10.22
+moviepy==1.0.3
